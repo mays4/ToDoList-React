@@ -1,0 +1,31 @@
+
+.outline{
+  display:flex;
+  align-items: center;
+  border: 0.25rem solid black;
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+
+
+.button{
+  width: 100px;
+  border: 1px solid rgb(200, 78, 78);
+  border-radius: 20px;
+  color: #000;
+  /* margin: 20px; */
+  padding-left: 10px;
+
+}
+.box{
+  
+  align-items: center;
+  border: 0.25rem solid rgb(152, 152, 138);
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+}
